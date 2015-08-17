@@ -1,9 +1,10 @@
-.container {
+.title-container {
   font-family: 'Libre Baskerville', serif;
   background: #262530;
   text-align: center;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 300px;
 }
 #dust {
   position: absolute;
@@ -125,3 +126,20 @@
             transform: scale(1);
   }
 }
+
+.compat {
+  display: none;
+}
+
+
+
+@media only screen and (max-width : 700px) {
+
+	.title-container{
+    display: none;
+  }
+  .compat{
+    display:block;
+  }
+
+	}

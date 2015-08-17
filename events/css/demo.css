@@ -44,7 +44,7 @@ body.body--hidden .content--related {
 	opacity: 0;
 }
 
-.codrops-header,
+/*.codrops-header,*/
 .content--related {
 	-webkit-transition: opacity 300ms ease-in-out;
 	transition: opacity 300ms ease-in-out;
@@ -90,24 +90,24 @@ a:focus {
 }
 /* Header */
 
-.codrops-header {
+/*.codrops-header {
 	padding: 2em 1em;
 	text-align: center;
-}
+}*/
 
-.codrops-header h1 {
+/*.codrops-header h1 {
 	font-size: 2.25em;
 	font-weight: 400;
 	line-height: 1.2;
 	margin: .5em 0 0;
-}
+}*/
 
-.codrops-header h1 span {
+/*.codrops-header h1 span {
 	font-size: .45em;
 	display: block;
 	padding: .5em 0 1em;
 	color: #999;
-}
+}*/
 /* Top Navigation Style */
 
 .codrops-links {
