@@ -4,186 +4,27 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-html	/home/girish/Documents/techno Odessey/events/index.html	/^<html lang="en" class="no-js">$/;"	function	line:2
-head	/home/girish/Documents/techno Odessey/events/index.html	/^<head>$/;"	function	line:4
-meta	/home/girish/Documents/techno Odessey/events/index.html	/^	<meta charset="UTF-8" \/>$/;"	function	line:5
-meta	/home/girish/Documents/techno Odessey/events/index.html	/^	<meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:6
-meta	/home/girish/Documents/techno Odessey/events/index.html	/^	<meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:7
-title	/home/girish/Documents/techno Odessey/events/index.html	/^	<title>Technodessey events<\/title>$/;"	function	line:8
-meta	/home/girish/Documents/techno Odessey/events/index.html	/^	<meta name="description" content="IEEE events" \/>$/;"	function	line:9
-meta	/home/girish/Documents/techno Odessey/events/index.html	/^	<meta name="keywords" content="technology , code , raspberry pi" \/>$/;"	function	line:10
-meta	/home/girish/Documents/techno Odessey/events/index.html	/^	<meta name="author" content="Girish Ramnani" \/>$/;"	function	line:11
-link	/home/girish/Documents/techno Odessey/events/index.html	/^	<link rel="shortcut icon" href="favicon.ico">$/;"	function	line:12
-link	/home/girish/Documents/techno Odessey/events/index.html	/^	<link rel="stylesheet" type="text\/css" href="css\/normalize.css" \/>$/;"	function	line:13
-link	/home/girish/Documents/techno Odessey/events/index.html	/^	<link rel="stylesheet" type="text\/css" href="fonts\/font-awesome-4.3.0\/css\/font-awesome.min.css" \/>$/;"	function	line:14
-link	/home/girish/Documents/techno Odessey/events/index.html	/^	<link rel="stylesheet" type="text\/css" href="css\/demo.css" \/>$/;"	function	line:15
-link	/home/girish/Documents/techno Odessey/events/index.html	/^	<link rel="stylesheet" type="text\/css" href="css\/card.css" \/>$/;"	function	line:16
-link	/home/girish/Documents/techno Odessey/events/index.html	/^	<link rel="stylesheet" type="text\/css" href="css\/pattern.css" \/>$/;"	function	line:17
-link	/home/girish/Documents/techno Odessey/events/index.html	/^	<link rel="stylesheet" href="css\/title.css" charset="utf-8">$/;"	function	line:18
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	  <script src="http:\/\/html5shiv.googlecode.com\/svn\/trunk\/html5.js"><\/script>$/;"	function	line:20
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script>$/;"	function	line:22
-body	/home/girish/Documents/techno Odessey/events/index.html	/^<body class="demo-1">$/;"	function	line:29
-div	/home/girish/Documents/techno Odessey/events/index.html	/^	<div class="container">$/;"	function	line:30
-header	/home/girish/Documents/techno Odessey/events/index.html	/^		<header class="codrops-header">$/;"	function	line:31
-a	/home/girish/Documents/techno Odessey/events/index.html	/^				<a class="codrops-icon codrops-icon--prev" href="http:\/\/tympanus.net\/Development\/ColorExtraction\/" title="Previous Demo"><span>Previous Demo<\/span><\/a>$/;"	function	line:33
-a	/home/girish/Documents/techno Odessey/events/index.html	/^				<a class="codrops-icon codrops-icon--drop" href="http:\/\/tympanus.net\/codrops\/?p=24222" title="Back to the article"><span>Back to the Codrops article<\/span><\/a>$/;"	function	line:34
-div	/home/girish/Documents/techno Odessey/events/index.html	/^<div class="title-container">$/;"	function	line:36
-div	/home/girish/Documents/techno Odessey/events/index.html	/^<div id="dust">$/;"	function	line:37
-div	/home/girish/Documents/techno Odessey/events/index.html	/^<div class="title">$/;"	function	line:39
-h	/home/girish/Documents/techno Odessey/events/index.html	/^  <h1 class="h1">$/;"	function	line:40
-div	/home/girish/Documents/techno Odessey/events/index.html	/^    <div>$/;"	function	line:41
-span	/home/girish/Documents/techno Odessey/events/index.html	/^      <span>The <\/span>$/;"	function	line:42
-span	/home/girish/Documents/techno Odessey/events/index.html	/^      <span>by<\/span>$/;"	function	line:44
-div	/home/girish/Documents/techno Odessey/events/index.html	/^    <div>TECHNODESSEY<\/div>$/;"	function	line:46
-div	/home/girish/Documents/techno Odessey/events/index.html	/^			<div class="compat"><h1>TechnoDessey<\/h1>$/;"	function	line:51
-h	/home/girish/Documents/techno Odessey/events/index.html	/^				 <h2>Events<\/h2><\/div>$/;"	function	line:52
-div	/home/girish/Documents/techno Odessey/events/index.html	/^		<div class="content">$/;"	function	line:54
-div	/home/girish/Documents/techno Odessey/events/index.html	/^			<div class="pattern pattern--hidden"><\/div>$/;"	function	line:56
-div	/home/girish/Documents/techno Odessey/events/index.html	/^			<div class="wrapper">$/;"	function	line:58
-div	/home/girish/Documents/techno Odessey/events/index.html	/^				<div class="card">$/;"	function	line:59
-div	/home/girish/Documents/techno Odessey/events/index.html	/^					<div class="card__container card__container--closed">$/;"	function	line:60
-svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="card__image" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">$/;"	function	line:61
-defs	/home/girish/Documents/techno Odessey/events/index.html	/^							<defs>$/;"	function	line:62
-clipPath	/home/girish/Documents/techno Odessey/events/index.html	/^								<clipPath id="clipPath1">$/;"	function	line:63
-circle	/home/girish/Documents/techno Odessey/events/index.html	/^									<circle class="clip" cx="960" cy="250" r="992"><\/circle>$/;"	function	line:65
-image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath1)" width="1920" height="500" xlink:href="img\/a.jpg"><\/image>$/;"	function	line:68
-div	/home/girish/Documents/techno Odessey/events/index.html	/^						<div class="card__content">$/;"	function	line:70
-i	/home/girish/Documents/techno Odessey/events/index.html	/^							<i class="card__btn-close fa fa-times"><\/i>$/;"	function	line:71
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__caption">$/;"	function	line:72
-h	/home/girish/Documents/techno Odessey/events/index.html	/^								<h2 class="card__title">Tristan and Isolde<\/h2>$/;"	function	line:73
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">A modern day love story<\/p>$/;"	function	line:74
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__copy">$/;"	function	line:76
-div	/home/girish/Documents/techno Odessey/events/index.html	/^								<div class="meta">$/;"	function	line:77
-img	/home/girish/Documents/techno Odessey/events/index.html	/^									<img class="meta__avatar" src="img\/authors\/1.png" alt="author01" \/>$/;"	function	line:78
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Gerry Sutherland<\/span>$/;"	function	line:79
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">06\/19\/2015<\/span>$/;"	function	line:80
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Business model canvas bootstrapping deployment startup. In A\/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.<\/p>$/;"	function	line:82
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.<\/p>$/;"	function	line:83
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A\/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.<\/p>$/;"	function	line:84
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.<\/p>$/;"	function	line:85
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.<\/p>$/;"	function	line:86
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Low hanging fruit burn rate innovator user experience niche market A\/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A\/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.<\/p>$/;"	function	line:87
-div	/home/girish/Documents/techno Odessey/events/index.html	/^				<div class="card">$/;"	function	line:92
-div	/home/girish/Documents/techno Odessey/events/index.html	/^					<div class="card__container card__container--closed">$/;"	function	line:93
-svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="card__image" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">$/;"	function	line:94
-defs	/home/girish/Documents/techno Odessey/events/index.html	/^							<defs>$/;"	function	line:95
-clipPath	/home/girish/Documents/techno Odessey/events/index.html	/^								<clipPath id="clipPath2">$/;"	function	line:96
-circle	/home/girish/Documents/techno Odessey/events/index.html	/^									<circle class="clip" cx="960" cy="250" r="992"><\/circle>$/;"	function	line:98
-image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath2)" width="1920" height="500" xlink:href="img\/b.jpg"><\/image>$/;"	function	line:101
-div	/home/girish/Documents/techno Odessey/events/index.html	/^						<div class="card__content">$/;"	function	line:103
-i	/home/girish/Documents/techno Odessey/events/index.html	/^							<i class="card__btn-close fa fa-times"><\/i>$/;"	function	line:104
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__caption">$/;"	function	line:105
-h	/home/girish/Documents/techno Odessey/events/index.html	/^								<h2 class="card__title">Raspberry pi Workshop<\/h2>$/;"	function	line:106
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">Workshop w<\/p>$/;"	function	line:107
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__copy">$/;"	function	line:109
-div	/home/girish/Documents/techno Odessey/events/index.html	/^								<div class="meta">$/;"	function	line:110
-img	/home/girish/Documents/techno Odessey/events/index.html	/^									<img class="meta__avatar" src="img\/authors\/2.png" alt="author02" \/>$/;"	function	line:111
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Frank Posterius<\/span>$/;"	function	line:112
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">06\/16\/2015<\/span>$/;"	function	line:113
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Business model canvas bootstrapping deployment startup. In A\/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.<\/p>$/;"	function	line:115
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.<\/p>$/;"	function	line:116
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A\/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.<\/p>$/;"	function	line:117
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.<\/p>$/;"	function	line:118
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.<\/p>$/;"	function	line:119
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Low hanging fruit burn rate innovator user experience niche market A\/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A\/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.<\/p>$/;"	function	line:120
-div	/home/girish/Documents/techno Odessey/events/index.html	/^				<div class="card">$/;"	function	line:125
-div	/home/girish/Documents/techno Odessey/events/index.html	/^					<div class="card__container card__container--closed">$/;"	function	line:126
-svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="card__image" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">$/;"	function	line:127
-defs	/home/girish/Documents/techno Odessey/events/index.html	/^							<defs>$/;"	function	line:128
-clipPath	/home/girish/Documents/techno Odessey/events/index.html	/^								<clipPath id="clipPath3">$/;"	function	line:129
-circle	/home/girish/Documents/techno Odessey/events/index.html	/^									<circle class="clip" cx="960" cy="250" r="992"><\/circle>$/;"	function	line:131
-image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath3)" width="1920" height="500" xlink:href="img\/c.jpg"><\/image>$/;"	function	line:134
-div	/home/girish/Documents/techno Odessey/events/index.html	/^						<div class="card__content">$/;"	function	line:136
-i	/home/girish/Documents/techno Odessey/events/index.html	/^							<i class="card__btn-close fa fa-times"><\/i>$/;"	function	line:137
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__caption">$/;"	function	line:138
-h	/home/girish/Documents/techno Odessey/events/index.html	/^								<h2 class="card__title">A mild winter<\/h2>$/;"	function	line:139
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">Helen's view on wells<\/p>$/;"	function	line:140
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__copy">$/;"	function	line:142
-div	/home/girish/Documents/techno Odessey/events/index.html	/^								<div class="meta">$/;"	function	line:143
-img	/home/girish/Documents/techno Odessey/events/index.html	/^									<img class="meta__avatar" src="img\/authors\/3.png" alt="author03" \/>$/;"	function	line:144
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Sarah Lester<\/span>$/;"	function	line:145
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">06\/16\/2015<\/span>$/;"	function	line:146
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Business model canvas bootstrapping deployment startup. In A\/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.<\/p>$/;"	function	line:148
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.<\/p>$/;"	function	line:149
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A\/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.<\/p>$/;"	function	line:150
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.<\/p>$/;"	function	line:151
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.<\/p>$/;"	function	line:152
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Low hanging fruit burn rate innovator user experience niche market A\/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A\/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.<\/p>$/;"	function	line:153
-div	/home/girish/Documents/techno Odessey/events/index.html	/^				<div class="card">$/;"	function	line:158
-div	/home/girish/Documents/techno Odessey/events/index.html	/^					<div class="card__container card__container--closed">$/;"	function	line:159
-svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="card__image" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">$/;"	function	line:160
-defs	/home/girish/Documents/techno Odessey/events/index.html	/^							<defs>$/;"	function	line:161
-clipPath	/home/girish/Documents/techno Odessey/events/index.html	/^								<clipPath id="clipPath4">$/;"	function	line:162
-circle	/home/girish/Documents/techno Odessey/events/index.html	/^									<circle class="clip" cx="960" cy="250" r="992"><\/circle>$/;"	function	line:164
-image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath4)" width="1920" height="500" xlink:href="img\/d.jpg"><\/image>$/;"	function	line:167
-div	/home/girish/Documents/techno Odessey/events/index.html	/^						<div class="card__content">$/;"	function	line:169
-i	/home/girish/Documents/techno Odessey/events/index.html	/^							<i class="card__btn-close fa fa-times"><\/i>$/;"	function	line:170
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__caption">$/;"	function	line:171
-h	/home/girish/Documents/techno Odessey/events/index.html	/^								<h2 class="card__title">Food sources<\/h2>$/;"	function	line:172
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">What will we eat in 30 years?<\/p>$/;"	function	line:173
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__copy">$/;"	function	line:175
-div	/home/girish/Documents/techno Odessey/events/index.html	/^								<div class="meta">$/;"	function	line:176
-img	/home/girish/Documents/techno Odessey/events/index.html	/^									<img class="meta__avatar" src="img\/authors\/4.png" alt="author04" \/>$/;"	function	line:177
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Lena Bestofos<\/span>$/;"	function	line:178
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">06\/14\/2015<\/span>$/;"	function	line:179
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Business model canvas bootstrapping deployment startup. In A\/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.<\/p>$/;"	function	line:181
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.<\/p>$/;"	function	line:182
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A\/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.<\/p>$/;"	function	line:183
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.<\/p>$/;"	function	line:184
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.<\/p>$/;"	function	line:185
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Low hanging fruit burn rate innovator user experience niche market A\/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A\/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.<\/p>$/;"	function	line:186
-div	/home/girish/Documents/techno Odessey/events/index.html	/^				<div class="card">$/;"	function	line:191
-div	/home/girish/Documents/techno Odessey/events/index.html	/^					<div class="card__container card__container--closed">$/;"	function	line:192
-svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="card__image" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">$/;"	function	line:193
-defs	/home/girish/Documents/techno Odessey/events/index.html	/^							<defs>$/;"	function	line:194
-clipPath	/home/girish/Documents/techno Odessey/events/index.html	/^								<clipPath id="clipPath5">$/;"	function	line:195
-circle	/home/girish/Documents/techno Odessey/events/index.html	/^									<circle class="clip" cx="960" cy="250" r="992"><\/circle>$/;"	function	line:197
-image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath5)" width="1920" height="500" xlink:href="img\/e.jpg"><\/image>$/;"	function	line:200
-div	/home/girish/Documents/techno Odessey/events/index.html	/^						<div class="card__content">$/;"	function	line:202
-i	/home/girish/Documents/techno Odessey/events/index.html	/^							<i class="card__btn-close fa fa-times"><\/i>$/;"	function	line:203
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__caption">$/;"	function	line:204
-h	/home/girish/Documents/techno Odessey/events/index.html	/^								<h2 class="card__title">Swimming in the ocean<\/h2>$/;"	function	line:205
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">A Makrel's story<\/p>$/;"	function	line:206
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__copy">$/;"	function	line:208
-div	/home/girish/Documents/techno Odessey/events/index.html	/^								<div class="meta">$/;"	function	line:209
-img	/home/girish/Documents/techno Odessey/events/index.html	/^									<img class="meta__avatar" src="img\/authors\/5.png" alt="author05" \/>$/;"	function	line:210
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Michaela Walters<\/span>$/;"	function	line:211
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">06\/11\/2015<\/span>$/;"	function	line:212
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Business model canvas bootstrapping deployment startup. In A\/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.<\/p>$/;"	function	line:214
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.<\/p>$/;"	function	line:215
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A\/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.<\/p>$/;"	function	line:216
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.<\/p>$/;"	function	line:217
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.<\/p>$/;"	function	line:218
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Low hanging fruit burn rate innovator user experience niche market A\/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A\/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.<\/p>$/;"	function	line:219
-div	/home/girish/Documents/techno Odessey/events/index.html	/^				<div class="card">$/;"	function	line:224
-div	/home/girish/Documents/techno Odessey/events/index.html	/^					<div class="card__container card__container--closed">$/;"	function	line:225
-svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="card__image" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">$/;"	function	line:226
-defs	/home/girish/Documents/techno Odessey/events/index.html	/^							<defs>$/;"	function	line:227
-clipPath	/home/girish/Documents/techno Odessey/events/index.html	/^								<clipPath id="clipPath6">$/;"	function	line:228
-circle	/home/girish/Documents/techno Odessey/events/index.html	/^									<circle class="clip" cx="960" cy="250" r="992"><\/circle>$/;"	function	line:230
-image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath6)" width="1920" height="500" xlink:href="img\/f.jpg"><\/image>$/;"	function	line:233
-div	/home/girish/Documents/techno Odessey/events/index.html	/^						<div class="card__content">$/;"	function	line:235
-i	/home/girish/Documents/techno Odessey/events/index.html	/^							<i class="card__btn-close fa fa-times"><\/i>$/;"	function	line:236
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__caption">$/;"	function	line:237
-h	/home/girish/Documents/techno Odessey/events/index.html	/^								<h2 class="card__title">Freedom Fighters<\/h2>$/;"	function	line:238
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">When it's too hot to think<\/p>$/;"	function	line:239
-div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__copy">$/;"	function	line:241
-div	/home/girish/Documents/techno Odessey/events/index.html	/^								<div class="meta">$/;"	function	line:242
-img	/home/girish/Documents/techno Odessey/events/index.html	/^									<img class="meta__avatar" src="img\/authors\/6.png" alt="author06" \/>$/;"	function	line:243
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Tom Goldman<\/span>$/;"	function	line:244
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">06\/10\/2015<\/span>$/;"	function	line:245
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Business model canvas bootstrapping deployment startup. In A\/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.<\/p>$/;"	function	line:247
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.<\/p>$/;"	function	line:248
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A\/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.<\/p>$/;"	function	line:249
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.<\/p>$/;"	function	line:250
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.<\/p>$/;"	function	line:251
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Low hanging fruit burn rate innovator user experience niche market A\/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A\/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.<\/p>$/;"	function	line:252
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="js\/vendors\/trianglify.min.js"><\/script>$/;"	function	line:265
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="js\/vendors\/TweenMax.min.js"><\/script>$/;"	function	line:266
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="js\/vendors\/ScrollToPlugin.min.js"><\/script>$/;"	function	line:267
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="js\/vendors\/cash.min.js"><\/script>$/;"	function	line:268
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="js\/Card-circle.js"><\/script>$/;"	function	line:269
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="js\/demo.js"><\/script>$/;"	function	line:270
-script	/home/girish/Documents/techno Odessey/events/index.html	/^<script type="text\/javascript" src="http:\/\/cdn.jsdelivr.net\/particles.js\/2.0.0\/particles.min.js"><\/script>$/;"	function	line:271
-script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/zepto\/1.0\/zepto.min.js"><\/script>$/;"	function	line:272
-script	/home/girish/Documents/techno Odessey/events/index.html	/^		<script src="js\/particle.js"><\/script>$/;"	function	line:274
+.title-container	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title-container {$/;"	function	line:1
+#dust	/home/girish/Documents/techno Odessey/events/css/title.css	/^#dust {$/;"	function	line:9
+.title	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title {$/;"	function	line:14
+.h1	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 {$/;"	function	line:21
+.h1 > div	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 > div {$/;"	function	line:35
+.h1 > div + div	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 > div + div {$/;"	function	line:39
+.h1 span	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span {$/;"	function	line:42
+.h1 span:before	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:before,$/;"	function	line:51
+.h1 span:after	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:after {$/;"	function	line:52
+.h1 span:after	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:after {$/;"	function	line:63
+.inside p	/home/girish/Documents/techno Odessey/events/css/title.css	/^.inside p {$/;"	function	line:66
+.title	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title {$/;"	function	line:75
+@-webkit-keyframes zoomIn	/home/girish/Documents/techno Odessey/events/css/title.css	/^@-webkit-keyframes zoomIn {$/;"	function	line:93
+0%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  0% {$/;"	function	line:94
+40%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  40% {$/;"	function	line:100
+100%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  100% {$/;"	function	line:104
+@keyframes zoomIn	/home/girish/Documents/techno Odessey/events/css/title.css	/^@keyframes zoomIn {$/;"	function	line:111
+0%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  0% {$/;"	function	line:112
+40%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  40% {$/;"	function	line:118
+100%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  100% {$/;"	function	line:122
+.compat	/home/girish/Documents/techno Odessey/events/css/title.css	/^.compat {$/;"	function	line:130
+@media only screen and (max-width : 700px)	/home/girish/Documents/techno Odessey/events/css/title.css	/^@media only screen and (max-width : 700px) {$/;"	function	line:136
+.title-container	/home/girish/Documents/techno Odessey/events/css/title.css	/^	.title-container{$/;"	function	line:138
+.compat	/home/girish/Documents/techno Odessey/events/css/title.css	/^  .compat{$/;"	function	line:141

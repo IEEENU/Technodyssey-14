@@ -79,8 +79,8 @@
           animation-duration: 1.5s;
   -webkit-animation-timing-function: ease-out;
           animation-timing-function: ease-out;
-  -webkit-animation-delay: 2s;
-          animation-delay: 2s;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
   -webkit-animation-direction: alternate;
           animation-direction: alternate;
   -webkit-animation-iteration-count: 1;

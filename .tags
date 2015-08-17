@@ -61,30 +61,44 @@ transition: background-color 0.2s ease-out	/home/girish/Documents/techno Odessey
 .ghost-button	/home/girish/Documents/techno Odessey/css/main.css	/^	.ghost-button {$/;"	function	line:76
 @media only screen and (max-width : 480px)	/home/girish/Documents/techno Odessey/css/main.css	/^	@media only screen and (max-width : 480px) {$/;"	function	line:89
 .ghost-button	/home/girish/Documents/techno Odessey/css/main.css	/^		.ghost-button {$/;"	function	line:90
-.title-container	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title-container {$/;"	function	line:1
-#dust	/home/girish/Documents/techno Odessey/events/css/title.css	/^#dust {$/;"	function	line:9
-.title	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title {$/;"	function	line:14
-.h1	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 {$/;"	function	line:21
-.h1 > div	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 > div {$/;"	function	line:35
-.h1 > div + div	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 > div + div {$/;"	function	line:39
-.h1 span	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span {$/;"	function	line:42
-.h1 span:before	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:before,$/;"	function	line:51
-.h1 span:after	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:after {$/;"	function	line:52
-.h1 span:after	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:after {$/;"	function	line:63
-.inside p	/home/girish/Documents/techno Odessey/events/css/title.css	/^.inside p {$/;"	function	line:66
-.title	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title {$/;"	function	line:75
-@-webkit-keyframes zoomIn	/home/girish/Documents/techno Odessey/events/css/title.css	/^@-webkit-keyframes zoomIn {$/;"	function	line:93
-0%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  0% {$/;"	function	line:94
-40%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  40% {$/;"	function	line:100
-100%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  100% {$/;"	function	line:104
-@keyframes zoomIn	/home/girish/Documents/techno Odessey/events/css/title.css	/^@keyframes zoomIn {$/;"	function	line:111
-0%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  0% {$/;"	function	line:112
-40%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  40% {$/;"	function	line:118
-100%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  100% {$/;"	function	line:122
-.compat	/home/girish/Documents/techno Odessey/events/css/title.css	/^.compat {$/;"	function	line:130
-@media only screen and (max-width : 700px)	/home/girish/Documents/techno Odessey/events/css/title.css	/^@media only screen and (max-width : 700px) {$/;"	function	line:136
-.title-container	/home/girish/Documents/techno Odessey/events/css/title.css	/^	.title-container{$/;"	function	line:138
-.compat	/home/girish/Documents/techno Odessey/events/css/title.css	/^  .compat{$/;"	function	line:141
+html	/home/girish/Documents/techno Odessey/index.html	/^<html lang="en" class="no-js">$/;"	function	line:2
+head	/home/girish/Documents/techno Odessey/index.html	/^	<head>$/;"	function	line:3
+meta	/home/girish/Documents/techno Odessey/index.html	/^		<meta charset="UTF-8" \/>$/;"	function	line:4
+meta	/home/girish/Documents/techno Odessey/index.html	/^		<meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:5
+meta	/home/girish/Documents/techno Odessey/index.html	/^		<meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:6
+title	/home/girish/Documents/techno Odessey/index.html	/^		<title>Technodessey<\/title>$/;"	function	line:7
+meta	/home/girish/Documents/techno Odessey/index.html	/^		<meta name="description" content="Examples for creative website header animations using Canvas and JavaScript" \/>$/;"	function	line:8
+meta	/home/girish/Documents/techno Odessey/index.html	/^		<meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" \/>$/;"	function	line:9
+meta	/home/girish/Documents/techno Odessey/index.html	/^		<meta name="author" content="Codrops" \/>$/;"	function	line:10
+link	/home/girish/Documents/techno Odessey/index.html	/^		<link rel="stylesheet" type="text\/css" href="css\/normalize.css" \/>$/;"	function	line:12
+link	/home/girish/Documents/techno Odessey/index.html	/^		<link rel="stylesheet" type="text\/css" href="css\/main.css" \/>$/;"	function	line:13
+link	/home/girish/Documents/techno Odessey/index.html	/^		<link rel="stylesheet" type="text\/css" href="css\/component.css" \/>$/;"	function	line:14
+link	/home/girish/Documents/techno Odessey/index.html	/^		<link rel="stylesheet" type="text\/css" href="css\/jquery.countdown.css">$/;"	function	line:15
+link	/home/girish/Documents/techno Odessey/index.html	/^		<link href='http:\/\/fonts.googleapis.com\/css?family=Raleway:200,400,800' rel='stylesheet' type='text\/css'>$/;"	function	line:17
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script src="http:\/\/html5shiv.googlecode.com\/svn\/trunk\/html5.js"><\/script>$/;"	function	line:19
+body	/home/girish/Documents/techno Odessey/index.html	/^	<body>$/;"	function	line:22
+div	/home/girish/Documents/techno Odessey/index.html	/^		<div class="container demo-1">$/;"	function	line:23
+div	/home/girish/Documents/techno Odessey/index.html	/^			<div class="content">$/;"	function	line:24
+div	/home/girish/Documents/techno Odessey/index.html	/^				<div id="large-header" class="large-header">$/;"	function	line:25
+canvas	/home/girish/Documents/techno Odessey/index.html	/^					<canvas id="demo-canvas"><\/canvas>$/;"	function	line:26
+div	/home/girish/Documents/techno Odessey/index.html	/^					<div class="main-container">$/;"	function	line:27
+h	/home/girish/Documents/techno Odessey/index.html	/^					<h1 class="main-title">Techno <span class="thin">dyssey<\/span><\/h1>$/;"	function	line:29
+a	/home/girish/Documents/techno Odessey/index.html	/^					<a class="ghost-button" href="events\/index.html">Enter the journey<\/a>$/;"	function	line:32
+ul	/home/girish/Documents/techno Odessey/index.html	/^					<ul id="timer">$/;"	function	line:33
+li	/home/girish/Documents/techno Odessey/index.html	/^	  <li><span class="days">00<\/span><p class="days_text">Days<\/p><\/li>$/;"	function	line:34
+li	/home/girish/Documents/techno Odessey/index.html	/^		<li class="seperator">:<\/li>$/;"	function	line:35
+li	/home/girish/Documents/techno Odessey/index.html	/^		<li><span class="hours">00<\/span><p class="hours_text">Hours<\/p><\/li>$/;"	function	line:36
+li	/home/girish/Documents/techno Odessey/index.html	/^		<li class="seperator">:<\/li>$/;"	function	line:37
+li	/home/girish/Documents/techno Odessey/index.html	/^		<li><span class="minutes">00<\/span><p class="minutes_text">Minutes<\/p><\/li>$/;"	function	line:38
+li	/home/girish/Documents/techno Odessey/index.html	/^		<li class="seperator">:<\/li>$/;"	function	line:39
+li	/home/girish/Documents/techno Odessey/index.html	/^		<li><span class="seconds">00<\/span><p class="seconds_text">Seconds<\/p><\/li>$/;"	function	line:40
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script src="http:\/\/code.jquery.com\/jquery-1.11.1.min.js"><\/script>$/;"	function	line:44
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script src="js\/TweenLite.min.js"><\/script>$/;"	function	line:45
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script src="js\/EasePack.min.js"><\/script>$/;"	function	line:46
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script src="js\/rAF.js"><\/script>$/;"	function	line:47
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script src="js\/main.js"><\/script>$/;"	function	line:48
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script src="js\/jquery.countdown.min.js"><\/script>$/;"	function	line:50
+script	/home/girish/Documents/techno Odessey/index.html	/^		<script type="text\/javascript">$/;"	function	line:51
 html	/home/girish/Documents/techno Odessey/events/index.html	/^<html lang="en" class="no-js">$/;"	function	line:2
 head	/home/girish/Documents/techno Odessey/events/index.html	/^<head>$/;"	function	line:4
 meta	/home/girish/Documents/techno Odessey/events/index.html	/^	<meta charset="UTF-8" \/>$/;"	function	line:5
@@ -150,23 +164,16 @@ svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="
 defs	/home/girish/Documents/techno Odessey/events/index.html	/^							<defs>$/;"	function	line:95
 clipPath	/home/girish/Documents/techno Odessey/events/index.html	/^								<clipPath id="clipPath2">$/;"	function	line:96
 circle	/home/girish/Documents/techno Odessey/events/index.html	/^									<circle class="clip" cx="960" cy="250" r="992"><\/circle>$/;"	function	line:98
-image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath2)" width="1920" height="500" xlink:href="img\/b.jpg"><\/image>$/;"	function	line:101
+image	/home/girish/Documents/techno Odessey/events/index.html	/^							<image clip-path="url(#clipPath2)" width="1920" height="500" xlink:href="img\/pi.jpg"><\/image>$/;"	function	line:101
 div	/home/girish/Documents/techno Odessey/events/index.html	/^						<div class="card__content">$/;"	function	line:103
 i	/home/girish/Documents/techno Odessey/events/index.html	/^							<i class="card__btn-close fa fa-times"><\/i>$/;"	function	line:104
 div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__caption">$/;"	function	line:105
 h	/home/girish/Documents/techno Odessey/events/index.html	/^								<h2 class="card__title">Raspberry pi Workshop<\/h2>$/;"	function	line:106
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">Workshop w<\/p>$/;"	function	line:107
+p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p class="card__subtitle">Workshop where you connect digital world to the physical world<\/p>$/;"	function	line:107
 div	/home/girish/Documents/techno Odessey/events/index.html	/^							<div class="card__copy">$/;"	function	line:109
 div	/home/girish/Documents/techno Odessey/events/index.html	/^								<div class="meta">$/;"	function	line:110
-img	/home/girish/Documents/techno Odessey/events/index.html	/^									<img class="meta__avatar" src="img\/authors\/2.png" alt="author02" \/>$/;"	function	line:111
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Frank Posterius<\/span>$/;"	function	line:112
-span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">06\/16\/2015<\/span>$/;"	function	line:113
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Business model canvas bootstrapping deployment startup. In A\/B testing pivot niche market alpha conversion startup down monetization partnership business-to-consumer success for investor mass market business-to-business.<\/p>$/;"	function	line:115
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Release creative social proof influencer iPad crowdsource gamification learning curve network effects monetization. Gamification business plan mass market www.discoverartisans.com direct mailing ecosystem seed round sales long tail vesting period.<\/p>$/;"	function	line:116
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Product management ramen bootstrapping seed round venture holy grail technology backing partner network entrepreneur beta marketing value proposition. Android stealth conversion scrum project network effects. Creative alpha long tail conversion stealth growth hacking iteration investor A\/B testing prototype customer. Startup www.discoverartisans.com direct mailing launch party partnership market ramen metrics focus value proposition.<\/p>$/;"	function	line:117
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Stock infrastructure seed round sales paradigm shift technology user experience focus gamification. Partnership metrics business plan stealth business-to-business. Deployment graphical user interface monetization. Twitter incubator scrum project entrepreneur branding burn rate ramen backing paradigm shift virality crowdsource.<\/p>$/;"	function	line:118
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Social proof MVP ecosystem. Ramen launch party pitch deployment stealth. Vesting period MVP equity. Focus creative partnership founders iteration agile development infographic.<\/p>$/;"	function	line:119
-p	/home/girish/Documents/techno Odessey/events/index.html	/^								<p>Low hanging fruit burn rate innovator user experience niche market A\/B testing creative launch party product management release. Www.discoverartisans.com influencer business model canvas user experience gamification paradigm shift startup research &amp; development iPad agile development. Strategy incubator infographic success marketing buzz A\/B testing responsive web design. Traction research &amp; development pitch seed money venture niche market accelerator network effects.<\/p>$/;"	function	line:120
+span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__author">Presentor<\/span>$/;"	function	line:111
+span	/home/girish/Documents/techno Odessey/events/index.html	/^									<span class="meta__date">DATE<\/span>$/;"	function	line:112
 div	/home/girish/Documents/techno Odessey/events/index.html	/^				<div class="card">$/;"	function	line:125
 div	/home/girish/Documents/techno Odessey/events/index.html	/^					<div class="card__container card__container--closed">$/;"	function	line:126
 svg	/home/girish/Documents/techno Odessey/events/index.html	/^						<svg class="card__image" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">$/;"	function	line:127
@@ -268,3 +275,27 @@ script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="j
 script	/home/girish/Documents/techno Odessey/events/index.html	/^<script type="text\/javascript" src="http:\/\/cdn.jsdelivr.net\/particles.js\/2.0.0\/particles.min.js"><\/script>$/;"	function	line:271
 script	/home/girish/Documents/techno Odessey/events/index.html	/^	<script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/zepto\/1.0\/zepto.min.js"><\/script>$/;"	function	line:272
 script	/home/girish/Documents/techno Odessey/events/index.html	/^		<script src="js\/particle.js"><\/script>$/;"	function	line:274
+.title-container	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title-container {$/;"	function	line:1
+#dust	/home/girish/Documents/techno Odessey/events/css/title.css	/^#dust {$/;"	function	line:9
+.title	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title {$/;"	function	line:14
+.h1	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 {$/;"	function	line:21
+.h1 > div	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 > div {$/;"	function	line:35
+.h1 > div + div	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 > div + div {$/;"	function	line:39
+.h1 span	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span {$/;"	function	line:42
+.h1 span:before	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:before,$/;"	function	line:51
+.h1 span:after	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:after {$/;"	function	line:52
+.h1 span:after	/home/girish/Documents/techno Odessey/events/css/title.css	/^.h1 span:after {$/;"	function	line:63
+.inside p	/home/girish/Documents/techno Odessey/events/css/title.css	/^.inside p {$/;"	function	line:66
+.title	/home/girish/Documents/techno Odessey/events/css/title.css	/^.title {$/;"	function	line:75
+@-webkit-keyframes zoomIn	/home/girish/Documents/techno Odessey/events/css/title.css	/^@-webkit-keyframes zoomIn {$/;"	function	line:93
+0%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  0% {$/;"	function	line:94
+40%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  40% {$/;"	function	line:100
+100%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  100% {$/;"	function	line:104
+@keyframes zoomIn	/home/girish/Documents/techno Odessey/events/css/title.css	/^@keyframes zoomIn {$/;"	function	line:111
+0%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  0% {$/;"	function	line:112
+40%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  40% {$/;"	function	line:118
+100%	/home/girish/Documents/techno Odessey/events/css/title.css	/^  100% {$/;"	function	line:122
+.compat	/home/girish/Documents/techno Odessey/events/css/title.css	/^.compat {$/;"	function	line:130
+@media only screen and (max-width : 700px)	/home/girish/Documents/techno Odessey/events/css/title.css	/^@media only screen and (max-width : 700px) {$/;"	function	line:136
+.title-container	/home/girish/Documents/techno Odessey/events/css/title.css	/^	.title-container{$/;"	function	line:138
+.compat	/home/girish/Documents/techno Odessey/events/css/title.css	/^  .compat{$/;"	function	line:141
