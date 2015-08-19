@@ -299,3 +299,22 @@ script	/home/girish/Documents/techno Odessey/events/index.html	/^		<script src="
 @media only screen and (max-width : 700px)	/home/girish/Documents/techno Odessey/events/css/title.css	/^@media only screen and (max-width : 700px) {$/;"	function	line:136
 .title-container	/home/girish/Documents/techno Odessey/events/css/title.css	/^	.title-container{$/;"	function	line:138
 .compat	/home/girish/Documents/techno Odessey/events/css/title.css	/^  .compat{$/;"	function	line:141
+.large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.large-header {$/;"	function	line:2
+.demo-1 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-1 .large-header {$/;"	function	line:12
+.demo-2 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-2 .large-header {$/;"	function	line:16
+.demo-3 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-3 .large-header {$/;"	function	line:21
+.demo-4 .large-header	/home/girish/Documents/techno Odessey/css/component.css	/^.demo-4 .large-header {$/;"	function	line:25
+.main-title	/home/girish/Documents/techno Odessey/css/component.css	/^.main-title {$/;"	function	line:29
+.main-title .thin	/home/girish/Documents/techno Odessey/css/component.css	/^.main-title .thin {$/;"	function	line:49
+.main-container	/home/girish/Documents/techno Odessey/css/component.css	/^.main-container {$/;"	function	line:53
+@media only screen and (max-width : 800px)	/home/girish/Documents/techno Odessey/css/component.css	/^@media only screen and (max-width : 800px) {$/;"	function	line:62
+.demo-1 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.demo-1 .main-title,$/;"	function	line:63
+.demo-3 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.demo-3 .main-title,$/;"	function	line:64
+.demo-4 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.demo-4 .main-title {$/;"	function	line:65
+.main-container	/home/girish/Documents/techno Odessey/css/component.css	/^	.main-container {$/;"	function	line:69
+.main-title	/home/girish/Documents/techno Odessey/css/component.css	/^	.main-title {$/;"	function	line:77
+@media only screen and (max-width : 480px)	/home/girish/Documents/techno Odessey/css/component.css	/^	@media only screen and (max-width : 480px) {$/;"	function	line:85
+.demo-1 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^		.demo-1 .main-title,$/;"	function	line:86
+.demo-3 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^		.demo-3 .main-title,$/;"	function	line:87
+.demo-4 .main-title	/home/girish/Documents/techno Odessey/css/component.css	/^		.demo-4 .main-title {$/;"	function	line:88
+.main-container	/home/girish/Documents/techno Odessey/css/component.css	/^		.main-container {$/;"	function	line:92
