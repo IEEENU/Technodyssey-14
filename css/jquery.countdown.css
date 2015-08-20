@@ -73,27 +73,27 @@ ul#timer li p {
       text-align: center;
       position: absolute;
     top: 40%;
-    left: 15%;
+    left: 10%;
     color: white;
 
     }
 
 
     ul#timer li span {
-      font-size: 25px;
+      font-size: 20px;
       font-weight: 300;
       line-height: 15px;
     }
 
     ul#timer li.seperator {
-      font-size: 25px;
+      font-size: 20px;
       line-height:25px;
       vertical-align: top;
     }
 
     ul#timer li p {
       color: #a7abb1;
-      font-size: 25px;
+      font-size: 20px;
     }
 
 		}

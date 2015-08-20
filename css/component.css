@@ -86,16 +86,20 @@
 		.demo-1 .main-title,
 		.demo-3 .main-title,
 		.demo-4 .main-title {
-			font-size: 2em;
+			font-size: 1.75em;
 		}
 
 		.main-container {
 			position: absolute;
-			left: 10vw;
-			right: 10vw;
+			left:0px;
+			
 			top:10vh;
 
 
 		}
+        .main-title {
+		width: 300px;
+
+	}
 
 		}
