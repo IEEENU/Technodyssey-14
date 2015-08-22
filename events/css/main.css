@@ -278,3 +278,9 @@ a:focus {
 		line-height: 1.2;
 	}
 }
+.share_button {
+	display: absolute;
+	margin: 0px auto;
+	width: 200px;
+
+}
